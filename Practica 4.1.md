@@ -237,9 +237,7 @@ stepi
 ## 🎥 Evidencias de Ejecución
 Para grabar una sesión de terminal profesional:
 ```bash
-asciinema rec evidencia.cast
-# Ejecuta: make, python src/app.py, gdb...
-exit
+https://asciinema.org/a/jcTMixVOmP7CFojB
 ```
 
 **Autor:** Noyola Rivera Carlos Ernesto  
